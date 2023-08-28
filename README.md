@@ -13,7 +13,7 @@
 ###### Added features and releases from me and my team:
 * [Intel extension for PyTorch integration with TritonServer](https://github.com/swanandmhalagi/intel-ai-inference-samples/tree/triton_IPEX/IPEX_OOB_with_triton)
 
-###### Customer blogs due to my teams work:
+###### Customer blogs due to me and my team's work:
 * [PhoenixNAP Blog](https://www.intel.com/content/www/us/en/content-details/781651/deploy-and-manage-high-performance-physical-servers-with-cloud-like-ease.html?DocID=781651)
 * [How to improve inference performance](https://medium.com/@amerather_9719/intel-optimization-at-netflix-79ef0efb9d2)
 
