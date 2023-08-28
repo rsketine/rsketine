@@ -1,4 +1,3 @@
-
 [My Linked in profile](https://www.linkedin.com/in/ramaketineni/)
 
 ###### My publications & contributions:
