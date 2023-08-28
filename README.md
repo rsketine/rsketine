@@ -22,3 +22,12 @@
 * [How to accelerate TensorFlow on Intel hardware](https://www.intel.com/content/www/us/en/developer/articles/technical/how-to-accelerate-tensorflow-on-intel-hardware.html)
 * [How to accelerate PyTorch on Intel hardware](https://www.intel.com/content/www/us/en/developer/articles/technical/increase-pytorch-inference-throughput-by-4x.html)
 * [How to accelerate machine learning on Intel hardware](https://www.intel.com/content/www/us/en/developer/articles/technical/accelerate-end-to-end-machine-learning.html)
+
+###### Open Source software releases lead by me with my team 
+* [nGraph](https://github.com/NervanaSystems/ngraph)https://github.com/NervanaSystems/ngraph)
+* [ngraph-bridge](https://github.com/NervanaSystems/ngraph-bridge)
+* [ngraph-tf](https://github.com/NervanaSystems/ngraph-tf)
+* [ngraph-mxnet-bridge](https://github.com/NervanaSystems/ngraph-mxnet-bridge)
+* [ngraph paddle](https://github.com/NervanaSystems/Paddle)
+* [he-transformer](https://github.com/NervanaSystems/he-transformer)
+* Private repo's are not listed 
