@@ -10,14 +10,14 @@
   * [PR - 44958](https://github.com/tensorflow/tensorflow/pull/44958)
 * [Intel TensorFlow releases](https://github.com/Intel-tensorflow/tensorflow/releases/tag/v2.5.0)
 
-###### Added features and releases from me and my team:
+###### Added features for customers:
 * [Intel extension for PyTorch integration with TritonServer](https://github.com/swanandmhalagi/intel-ai-inference-samples/tree/triton_IPEX/IPEX_OOB_with_triton)
 
-###### Customer blogs due to me and my team's work:
+###### Customer blogs influenced by our customer work:
 * [PhoenixNAP Blog](https://www.intel.com/content/www/us/en/content-details/781651/deploy-and-manage-high-performance-physical-servers-with-cloud-like-ease.html?DocID=781651)
 * [How to improve inference performance](https://medium.com/@amerather_9719/intel-optimization-at-netflix-79ef0efb9d2)
 
-###### Video's architected and published by me and my team:
+###### Video's architected and published for customers:
 * [How to accelerate TensorFlow on Intel hardware](https://www.intel.com/content/www/us/en/developer/articles/technical/how-to-accelerate-tensorflow-on-intel-hardware.html)
 * [How to accelerate PyTorch on Intel hardware](https://www.intel.com/content/www/us/en/developer/articles/technical/increase-pytorch-inference-throughput-by-4x.html)
 * [How to accelerate machine learning on Intel hardware](https://www.intel.com/content/www/us/en/developer/articles/technical/accelerate-end-to-end-machine-learning.html)
