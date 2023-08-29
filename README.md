@@ -24,7 +24,7 @@
 * [How to accelerate PyTorch on Intel hardware](https://www.intel.com/content/www/us/en/developer/articles/technical/increase-pytorch-inference-throughput-by-4x.html)
 * [How to accelerate machine learning on Intel hardware](https://www.intel.com/content/www/us/en/developer/articles/technical/accelerate-end-to-end-machine-learning.html)
 
-###### Led collaborative Open Source software releases
+###### Open Source software releases
 * [nGraph](https://github.com/NervanaSystems/ngraph)https://github.com/NervanaSystems/ngraph)
 * [ngraph-bridge](https://github.com/NervanaSystems/ngraph-bridge)
 * [ngraph-tf](https://github.com/NervanaSystems/ngraph-tf)
