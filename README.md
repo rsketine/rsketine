@@ -1,6 +1,6 @@
 [My Linked in profile](https://www.linkedin.com/in/ramaketineni/)
 
-###### My publications & collaborations:
+#### My publications & collaborations:
 * [AI performance Debugging on Intel CPU](https://www.intel.com/content/www/us/en/developer/articles/technical/debugging-ai-performance-on-intel-cpus.html)
 * [Use Deep Learning Optimizations from Intel in TensorFlow](https://www.intel.com/content/www/us/en/developer/articles/news/leverage-deep-learning-optimizations-tensorflow.html#gs.4znpto)
 * [Intel Optimizations for TensorFlow now available](https://groups.google.com/a/tensorflow.org/g/developers/c/XVdikIuPxJA)
