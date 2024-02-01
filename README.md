@@ -3,7 +3,7 @@
 #### My publications & collaborations:
 * [AI performance Debugging on Intel CPU](https://www.intel.com/content/www/us/en/developer/articles/technical/debugging-ai-performance-on-intel-cpus.html)
 * [Use Deep Learning Optimizations from Intel in TensorFlow](https://www.intel.com/content/www/us/en/developer/articles/news/leverage-deep-learning-optimizations-tensorflow.html#gs.4znpto)
-* [Intel Optimizations for TensorFlow now available](https://groups.google.com/a/tensorflow.org/g/developers/c/XVdikIuPxJA)
+* [Intel Optimizations for TensorFlow now available]([https://groups.google.com/a/tensorflow.org/g/developers/c/XVdikIuPxJA](https://github.com/Intel-tensorflow/tensorflow/releases/tag/v2.6.0))
 * [contibutions to TensorFlow](https://github.com/tensorflow/tensorflow/pulls?q=is%3Apr+rsketine)
   * [PR - 48387](https://github.com/tensorflow/tensorflow/pull/48387)
   * [PR - 48351](https://github.com/tensorflow/tensorflow/pull/48351)
