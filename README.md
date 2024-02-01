@@ -3,6 +3,11 @@
 #### My publications & collaborations:
 * [AI performance Debugging on Intel CPU](https://www.intel.com/content/www/us/en/developer/articles/technical/debugging-ai-performance-on-intel-cpus.html)
 * [Use Deep Learning Optimizations from Intel in TensorFlow](https://www.intel.com/content/www/us/en/developer/articles/news/leverage-deep-learning-optimizations-tensorflow.html#gs.4znpto)
+* [contibutions to TensorFlow](https://github.com/tensorflow/tensorflow/pulls?q=is%3Apr+rsketine)
+  * [PR - 48387](https://github.com/tensorflow/tensorflow/pull/48387)
+  * [PR - 48351](https://github.com/tensorflow/tensorflow/pull/48351)
+  * [PR - 44958](https://github.com/tensorflow/tensorflow/pull/44958)
+* [Intel TensorFlow releases](https://github.com/Intel-tensorflow/tensorflow/releases/tag/v2.5.0)
 * PyPi releases
   * [Intel Optimizations for TensorFlow now available](https://pypi.org/project/tensorflow-intel/)
   * [ngraph](https://pypi.org/search/?q=ngraph)
@@ -10,11 +15,6 @@
   * [ngraph-mxnet-bridge](https://pypi.org/project/ngraph-mxnet/)
 * Anaconda releases
   * [Intel-aikit-tensorflow](https://anaconda.org/intel/intel-aikit-tensorflow)
-* [contibutions to TensorFlow](https://github.com/tensorflow/tensorflow/pulls?q=is%3Apr+rsketine)
-  * [PR - 48387](https://github.com/tensorflow/tensorflow/pull/48387)
-  * [PR - 48351](https://github.com/tensorflow/tensorflow/pull/48351)
-  * [PR - 44958](https://github.com/tensorflow/tensorflow/pull/44958)
-* [Intel TensorFlow releases](https://github.com/Intel-tensorflow/tensorflow/releases/tag/v2.5.0)
 
 #### Collaborative Leadership and Team achievements
 
